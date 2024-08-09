@@ -40,3 +40,6 @@
         - Base 2
         - Grayscale
         - Thresholding
+    - Color images
+        - BGR
+        - Split image channels
