@@ -1,0 +1,42 @@
+### OPENCV 
+
+- Library
+- Open Source Computer Vision Library
+- Real-time computer vision
+- Modules
+    - Core: Basic structures
+    - HIGHGUI: Simple user interface to show images
+    - IMGPROC: Image processing algorithms
+    - IMGCODECS: Methods for image file reading, writing and compression
+    - VideoIO: Multimedia I/O from video captures devices
+    - Video: Video analysis methods
+    - Calib3D: Camera calibration and 3D reconstruction
+    - Features2D: Feature detectors, descriptions and matchers
+    - Objdetect: Detection of objects and other items
+    - GPU: optimized methods based on GPU-acceleration
+    - ML: Machine Learning classes used for classification, regression and clustering
+    - Photo: Advanced photo processing
+- Python
+    - Programming Language for Data Mining
+    - Cross-Platform
+    - Conda: Package and environment management system, create isolated ambients
+    - DVC
+        - Data Version Control
+        - Managing machine learning and data mining
+- Image Analysis
+    - Extract meaningful information from digital images
+    - Pixels: smallest element of the image 
+    - Image is represented in a N-D data strecture with integer values from 0 to 255 (8 bits)
+    - OpenCV Mat
+    - Mat Header
+    - Sampling and pixels
+        - Sampling: number of pixels an image has
+        - Aliasing
+        - Number of rows
+        - Number of columns 
+        - Number of channels
+    - Quantization and values
+        - How the pixels are represented in the image
+        - Base 2
+        - Grayscale
+        - Thresholding
