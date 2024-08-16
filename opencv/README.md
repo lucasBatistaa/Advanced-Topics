@@ -43,3 +43,25 @@
     - Color images
         - BGR
         - Split image channels
+- Video Processing
+    - Video Capture: Allows to capture video from a camera or video file 
+    - Frame-by-Frame: Extract and process each frame in a video stream using a loop function
+    - Video Writing: Save processed video to a file
+    - Motion Detection: Tracing 
+- Advanced Techniques
+    - Image processing
+        - Point processing
+            - Pixel-Wise: Each pixel processed it's transforming
+            - Contrast Enhancement: Histogram equalization, enhancing contrast
+            - Image Negation: 
+            - Gamma Correction: Adjust the brightness
+    - Blurring and smoothing
+    - Edge detection
+    - Thresholding 
+    - Geometric Transformations
+        - Translation
+        - Scaling
+        - Rotation
+    - Object Detection
+        - HAAR Cascades
+
